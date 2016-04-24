@@ -1,0 +1,6 @@
+UI ON TABLETS/PHONE -> idle not working, swipe ulrd, 
+HOME/SIGNUP PAGE -> portfelo header, foundation
+SIDEBAR/CREDITBAR FUNCTIONALITY
+closeable popup that covers whole screen for a menu/design? black transparent, white text
+joyrides
+magellans
